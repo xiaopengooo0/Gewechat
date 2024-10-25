@@ -120,6 +120,7 @@ docker update --restart=always gewe
 3. 点击此处查看[详细API文档](https://apifox.com/apidoc/shared-69ba62ca-cb7d-437e-85e4-6f3d3df271b1)
 
 ## 项目架构设计
+
  <img src="liucheng.jpg" width="600px" height="350px" alt=" Logo">
 
 ## 基本用法（java示例）
