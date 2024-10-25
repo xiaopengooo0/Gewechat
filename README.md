@@ -2,7 +2,7 @@
   <img src="logo.png" width="500px" height="350px" alt=" Logo">
 </p>
 
-## 👉 [Gewechat🤖](https://github.com/Devo919/Gewechat)
+## 👉 Gewechat🤖
 
 个人微信免费开源框架，支持二次开发、任意语言都可接入，Restful API接入。
 
