@@ -187,6 +187,10 @@ docker update --restart=always gewe
     ./install-gewe.sh
 ```
 
+
+## 友情链接
+- [gewechaty](https://github.com/mikoshu/gewechaty) 基于nodejs二次封装gewechat的易用框架
+
 ## 版本更新
 
 ### 1.0.1
