@@ -190,6 +190,7 @@ docker update --restart=always gewe
 
 ## 友情链接
 - [gewechaty](https://github.com/mikoshu/gewechaty) 基于nodejs二次封装gewechat的易用框架
+- [rgewe-api](https://github.com/momo402/rgewe-api) 基于rust语言封装gewechat的api接口，同步API web页面文档
 
 ## 版本更新
 
