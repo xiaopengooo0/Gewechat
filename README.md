@@ -192,13 +192,14 @@ docker update --restart=always gewe
 ## 友情链接
 - [gewechaty](https://github.com/mikoshu/gewechaty) 基于nodejs二次封装gewechat的易用框架
 - [dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat) 对chatgpt-on-wechat项目扩展，实现了gewechat channel
+- [Coze-on-Wechat](https://github.com/JC0v0/Coze-on-Wechat)对接 coze 的扩展
 - [rgewe-api](https://github.com/momo402/rgewe-api) 【demo】基于rust语言封装gewechat的api接口，同步API web页面文档
 - [gewechat-python](https://github.com/hanfangyuan4396/gewechat-python) 【demo】python实现的gewechat api接口
   
 
 ## 版本更新
 
-### 1.0.2 【2025-3-4】
+### 1.0.2 
 
 * 修复一些bug，历史版本会逐渐失效
 * 更新方式：重新拉镜像部署即可，需注意，每次重新拉就是新设备登录【新设备挂几天在频繁用】
