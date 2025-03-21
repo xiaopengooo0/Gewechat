@@ -17,7 +17,7 @@ public class Demo {
         for (String toWxid : toWxids) {
             MessageApi.postText(appid,toWxid,"test","");
             int i = new Random().nextInt(6);
-            Thread.sleep(i*1000);
+            Thread.sleep(i*1000); 
         }
     }
 
