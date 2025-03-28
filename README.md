@@ -117,6 +117,7 @@ docker update --restart=always gewe
 2. 文件下载地址 `http://{服务ip}:2532/download/{接口返回的文件路径}`
 
 3. 点击此处查看[详细API文档](https://apifox.com/apidoc/shared-69ba62ca-cb7d-437e-85e4-6f3d3df271b1)
+    * 官网Api文档地址 [详细API文档](http://doc.geweapi.com/doc-3599831)
 
 ## 项目架构设计
 
